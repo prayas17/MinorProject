@@ -1,7 +1,8 @@
 TensorFlow==2.15.1 
 NumPy==1.26.4 
-OpenCV (cv2)==4.9.0
-Pickle==
-Keras (from tensorflow.keras.models)==2.15.0 
-Haar Cascade Classifier
+OpenCV==4.9.0
+Python==3.11.7
+Keras==2.15.0 
 scikit-learn==1.2.2 
+Haar Cascade Classifier
+
