@@ -1,1 +1,1 @@
-# MinorProject
+# Human Emotion Detection 
